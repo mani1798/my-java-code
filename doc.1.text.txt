@@ -1,2 +1,3 @@
 Document 1
-Changes done in the code 
+Changes done in the code by me
+file is changed by other developer
